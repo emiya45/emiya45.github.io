@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/07/09/hello-world/"/>
+      <url>/2024/07/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/2024/07/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2024/07/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p>（AI生成 仅供演示）<br>我的学习计划与成长之路</p><p>作为一名大学计算机专业的学生，我对未来的学习充满了期待和憧憬。今天，我很高兴地分享我的学习计划和我搭建个人博客的初衷。</p><p>个人博客的初衷<br>搭建这个个人博客不仅仅是为了记录我的学习和成长历程，更是为了与广大的学习者和技术爱好者分享我的见解、心得和经验。在这里，我希望能够建立一个互动的平台，与大家共同探讨计算机科学、编程技术、前沿技术的发展趋势，以及解决实际问题的方法和思路。我相信通过博客的方式，我能够更好地记录下自己的学习轨迹，也能够与大家共同进步、共同成长。</p><p>我的学习计划<br>在未来的学习过程中，我计划系统地学习以下几个方面：</p><p>编程基础与算法：深入学习各种编程语言的基础知识，包括但不限于Python、Java和C++，并且通过解决实际问题和参与开源项目来提升自己的编程能力。同时，我也将重视算法和数据结构的学习，以提高解决问题的能力。</p><p>Web 开发与前端技术：学习现代 Web 开发的技术和工具，包括HTML、CSS、JavaScript，以及流行的前端框架和库，如React和Vue.js。我希望能够通过实际项目来深入理解这些技术，并且掌握构建现代、响应式的网页应用程序的能力。</p><p>数据库与后端开发：掌握数据库设计与管理的基本原理和技能，学习关系型数据库（如MySQL）和非关系型数据库（如MongoDB）的使用。同时，我也计划学习后端开发的基础，包括RESTful API的设计和实现，以及服务器端框架如Node.js和Django的应用。</p><p>人工智能与机器学习：对人工智能和机器学习有浓厚的兴趣，我将探索机器学习算法的原理和应用，学习使用流行的机器学习库如TensorFlow和PyTorch来实现各种机器学习模型。</p><p>持续学习与实践：除了以上具体的学习计划，我也将注重持续学习和实践。通过阅读学术论文、参与在线课程和技术社区，以及参加相关的比赛和项目，来不断拓展自己的知识边界和技能水平。</p><p>结语<br>通过这个博客，我希望能够记录下自己在学习和技术探索过程中的点滴进步和心得体会。也欢迎大家与我互动，分享你们的想法和经验。让我们共同努力，共同成长！</p><p>未来的路虽然充满挑战，但我对学习的热情和对技术的探索精神将引领我不断前行。让我们一起迎接这个充满机遇的学习旅程！</p><p>希望这篇博客能够启发你，并且帮助你记录下自己的学习旅程和成长经历！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 感悟 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 感悟 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
