@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>html初步学习</title>
+      <link href="/2024/07/09/html%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2024/07/09/html%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<p>1、*.html 文件跟 *.jpg 文件(f盘)在不同目录下：</p><img src="file:///f:/*.jpg" width="300" height="120"/>2、*.html 文件跟 *.jpg 图片在相同目录下：<img src="*.jpg" width="300" height="120"/>3、*.html 文件跟 *.jpg 图片在不同目录下：a、图片 *.jpg 在 image 文件夹中，*.html 跟 image 在同一目录下：<p>&lt;img src&#x3D;”image&#x2F;*.jpg&#x2F;“width&#x3D;”300” height&#x3D;”120”&#x2F;&gt;<br>b、图片 <em>.jpg 在 image 文件夹中，</em>.html 在 connage 文件夹中，image 跟 connage 在同一目录下：</p><p>&lt;img src&#x3D;”..&#x2F;image&#x2F;*.jpg&#x2F;“width&#x3D;”300” height&#x3D;”120”&#x2F;&gt;<br>4、如果图片来源于网络，那么写绝对路径：</p><img src="http://static.runoob.com/images/runoob-logo.png" width="300" height="120"/>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> html </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇博客</title>
       <link href="/2024/07/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2024/07/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
